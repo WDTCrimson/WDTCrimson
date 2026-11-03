@@ -11,8 +11,13 @@ I've worked on certificate enrollment and lifecycle tooling, hardware-backed sig
 - **Applications:** JavaScript/TypeScript, React, Electron, and Tauri.
 - **Systems and tooling:** Linux, Windows Server, Docker, scripting, deployment, and troubleshooting.
 
-## Outside of work
+## Selected projects
 
-I tend to build tools for things I already spend time on: rhythm games, music software, game data, and desktop automation. Recent personal projects include a VOCALOID project inspection and tuning toolkit, a desktop assistant with voice integration, and web apps and Discord bots.
+- **[MaiDeck](https://github.com/WDTCrimson/maimaifavbot):** A Discord bot for maimai players, covering playlists, chart lookup and analysis, and browser-assisted account linking.
+- **VocaTuner:** A local toolkit for inspecting VOCALOID project files, experimenting with editable pitch tuning, and working with MIDI datasets.
+- **Great Sage:** An Electron desktop companion with LLM and voice integration, plus a separate Minecraft mod.
+- **Warframe Graphic Builder:** A Laravel application for building game graphics and managing the asset downloads and updates behind them.
 
-Most of my professional code isn't public. The repositories here are independent projects, experiments, and tools I can share.
+MaiDeck's source is public. The other projects are still private while I review what can be released.
+
+Most of my professional code isn't public, but I'm happy to talk about the systems I've worked on.
